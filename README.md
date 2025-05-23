@@ -2,14 +2,12 @@
 
 Meu nome é Rebeka Costa, 
 
-- Estou estudando na [Alura](https://www.alura.com.br)
-- Estou cursando o primeiro ano do Novo Ensino Médio;
-- Estou me desenvolvendo nas linguagens: JavaScript, HTMl e DIC;
-- Estou fazendo curso de Inglês iniciante.
-
+- Estou cursando o segundo ano do Novo Ensino Médio Tecnico de Ciência de Dados;
+- Estou me desenvolvendo na linguagem Python.
+- Curso de inglês iniciante completo
 - ### Você pode entrar em contato comigo 📫
 
-00001127324147sp@al.educacao.sp.gov.br
+rebekacosta.santos23@gmail.com
 
 
 
